@@ -2,7 +2,7 @@
 #### Hi!!! I'm a System Administrator... A enthusiastic programmer.
 
 
-I'm husband and father of one little girl and i'm from Costa Rica :costa_rica: :costa_rica:, i really enjoy do programer stuff in Python, JS, HTML, CSS  and make webdeveloper projects... I worked for several years as a system administrator, but now I want to grow professionally in the world of programming...
+I'm husband and father of one little girl and i'm from Costa Rica, i really enjoy do programer stuff in Python, JS, HTML, CSS  and make webdeveloper projects... I worked for several years as a system administrator, but now I want to grow professionally in the world of programming...
 
 ## Skills and Experiences
 * :snake: PHYTON
