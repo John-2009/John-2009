@@ -5,8 +5,8 @@
 I'm husband and father of one little girl and i'm from Costa Rica, i really enjoy do programer stuff in Python, JS, HTML, CSS  and make webdeveloper projects... I worked for several years as a system administrator, but now I want to grow professionally in the world of programming...
 
 ## Skills and Experiences
-* <a href="https://iconscout.com/icons/python" target="_blank">Python Icon</a> by <a href="https://iconscout.com/contributors/icons8" target="_blank">Icons8</a>
-* 
+* :snake: PHYTON
+* :computer: HTML, CSS, JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PYTHON, WEBDEVELOPER 
