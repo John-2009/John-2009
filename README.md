@@ -17,3 +17,5 @@ Skills: PYTHON / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-2009&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/john-2009)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=john-2009)](https://github.com/anuraghazra/github-readme-stats)
